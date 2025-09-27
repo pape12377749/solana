@@ -160,5 +160,4 @@ and that transactions with such persons would be a violation of U.S. export
 controls and sanctions law.
 Small documentation improvement:
 - fixed a minor typo
-- clarified command example for local setup
 No code changes. Thanks!
